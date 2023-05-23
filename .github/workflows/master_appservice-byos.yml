@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'AppService-BYOS'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7DC88F1D6002461DB58530A1E16B7355 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_59D28D7361594346AA4D60B8DAB055A7 }}
           package: .
